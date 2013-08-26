@@ -2,3 +2,16 @@ Swing for gfx
 hashmap
 pathfinding
 mysql and jdbc to simulate a treasure hunt game
+
+Get the simulation framework v3, linked on course website
+www.csub.edu/~renzo/cs282/index.htm
+
+UML - diagramatic design tool for program development (we will use Violet, a 'light' version)
+
+Look at InterfaceTypeDemo.java
+
+Learn not to rely on static - static bloats programs because static elements are stored permanently in memory
+
+Responsibilities of main:
+- process command line args
+- instantiate an application class object

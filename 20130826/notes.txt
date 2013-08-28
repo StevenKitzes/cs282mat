@@ -1,3 +1,6 @@
+CompSci 282 notes for August 26, 2013
+-------------------------------------
+
 Swing for gfx
 hashmap
 pathfinding

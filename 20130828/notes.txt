@@ -1,0 +1,3 @@
+Component Container LayoutManage - are they independent classes with references that can be set to each other?
+Swing AWT - are they first-party?
+adapter is like an interface that automagically sets methods inherited from an interface to do-nothings that can be overridden
